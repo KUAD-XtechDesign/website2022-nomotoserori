@@ -197,9 +197,9 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 ================================================= */
 .top_eye_catch {
   height: 500px;
-  color: #fff;
+  color: rgb(204, 49, 215);
   font-weight: bold;
-  background-image: url(../images/top.jpg);/* 背景画像 */
+  background-image: url(../images/景色.jpg);/* 背景画像 */
   background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
   background-position: center center;/* 背景画像の位置 */
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
@@ -250,7 +250,7 @@ a.link_btn:hover{/* classがlink_btnのaタグのマウスオーバー時 */
   opacity: 1;/* 半透明にならないように上書き */
   border-radius: 0;
   color: #fff;
-  background-color: #333;
+  background-color: rgb(105, 85, 255);
 }
 
 /* =================================================
